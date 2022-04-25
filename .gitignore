@@ -12,3 +12,4 @@ news.md
 AWS/
 Azure/
 sam_packaged.yml
+/.dccache
